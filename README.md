@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">Computer Science Student at Federal Unversity of Alfenas</h3>
 
-- 🌱 I’m currently learning **C++, Java, Haskell, Prolog and Phyton**
+- 🌱 I’m currently learning **C++, Java, Html, Css, Java Script and Phyton**
 
 - 📫 How to reach me **grodrigues2649@gmail.com**
 
